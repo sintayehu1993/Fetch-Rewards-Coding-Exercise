@@ -1,8 +1,8 @@
 {
-  "name": "coding",
+  "name": "Fetch-Rewards-Points-Api",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "node server.js",
   "scripts": {
     "devStart": "nodemon server.js"
   },
@@ -18,7 +18,7 @@
   "homepage": "https://github.com/sintayehu1993/Fetch-Rewards-Coding-Exercise#readme",
   "dependencies": {
     "express": "^4.17.1",
-    "mongoose": "^6.0.5"
+    "node": "^16.9.1"
   },
   "devDependencies": {
     "dotenv": "^10.0.0",
