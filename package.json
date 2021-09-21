@@ -2,7 +2,7 @@
   "name": "Fetch-Rewards-Points-Api",
   "version": "1.0.0",
   "description": "",
-  "main": "node server.js",
+  "main": "server.js",
   "scripts": {
     "devStart": "nodemon server.js"
   },
@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/sintayehu1993/Fetch-Rewards-Coding-Exercise.git"
   },
-  "author": "",
+  "author": "Sintayehu Dejene",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/sintayehu1993/Fetch-Rewards-Coding-Exercise/issues"
